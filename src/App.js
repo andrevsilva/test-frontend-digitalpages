@@ -78,11 +78,11 @@ class App extends Component{
     return (
       <div>
         <header>
-          <img src={logo} />
+          <img src={logo} alt="Digital Pages"/>
           <h2>Clique em voltar para escolher outra fruta</h2>
         </header>
         <div className="detalhes">
-            <img src={foto} />
+            <img src={foto} alt="Foto da frutra"/>
             <p className="nome">{nome}</p>
             <p>Fibras: {fibras}</p>
             <p>Calorias: {calorias}</p>
@@ -99,7 +99,7 @@ class App extends Component{
   return(
     <div>
       <header>
-        <img src={logo} />
+        <img src={logo} alt="Digital Pages"/>
         <h2>Clique na fruta e veja suas informações nutricionais</h2>
       </header>
       <div className="lista-frutas">
@@ -119,7 +119,7 @@ class App extends Component{
                 <div className="nome">
                   <h1>{fruta.name}</h1>
                 </div>
-                <img src={fruta.photo}></img>
+                <img src={fruta.photo} alt="Foto da Fruta" />
               </li>
             </button>
           </form>
