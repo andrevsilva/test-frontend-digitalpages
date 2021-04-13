@@ -74,7 +74,7 @@ class App extends Component{
   const gordura = localStorage.getItem('/gordura');
 
 
-  if (foto , nome , fibras , calorias , proteinas , carboidratos , porcao , gordura !== null) {
+  if (foto || nome || fibras || calorias || proteinas || carboidratos || porcao || gordura !== null) {
     return (
       <div>
         <header>
