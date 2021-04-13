@@ -29,4 +29,7 @@
 </ul>
 <p>O projeto será aberto em seguida e poderá ser testado</p>
 
+<h2>Como vizualisar o teste de outra maneira?</h2>
+<p>Também pode acessar clicando no meu repositorio Vercel pelo link: https://fruit-calorie.vercel.app , aqui não é preciso instalar nada, apenas acessar o link de qualquer dispositivo, seja ele desktop ou mobile :) </p>
+
 <h2>Obrigado pela oportunidade e espero que a gente se veja logo :D </h2>
