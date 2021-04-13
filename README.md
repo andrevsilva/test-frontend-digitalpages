@@ -1,6 +1,6 @@
 <h1 align="center">Digital Pages - Teste Front-end</h1><br>
 
-<h2 align="center">O teste constitui em consumir uma API que contem frutas e seus valores nutricionais e foi exibido as informações de acordo com o que foi pedido.</h2>
+<h2 align="center">O teste constitui em consumir uma API que contem frutas e seus valores nutricionais e foi exibido as informações de acordo com o que foi pedido. </h2>
   
 <h2>Tecnologias Utilizadas nesse projeto:</h2>
 <ul>
@@ -11,10 +11,10 @@
 <h2>Pontos importantes a serem levantados</h2>
 
 <ul>
-  <li>O layout foi criado de uma maneira de colocar todas as frutas de um jeito que o usuario não se sinta perdido com tanta informação</li>
-  <li>Foi utilizado CSS puro, sem o auxilio de nenhum biblioteca ou folha de estilo de terceiros</li>
+  <li>O layout foi criado de uma maneira com que todas as frutas fossem expostas de um jeito que o usuário não se sinta perdido com tanta informação</li>
+  <li>Foi utilizado CSS puro, sem o auxílio de nenhuma biblioteca ou folha de estilo de terceiros</li>
   <li>Apesar das limitações da API, foi feito o consumo dela de maneira correta, fazendo com que a API que não perca sua principal funcionalidade</li>
-  <li>Se foi atingido todos os pontos descritos no teste, utilizando um codigo limpo e simples</li>
+  <li>Se foi atingido todos os pontos descritos no teste, utilizando um código limpo e simples</li>
 </ul>
 
 <h2>Como rodar o teste de maneira local?</h2>
